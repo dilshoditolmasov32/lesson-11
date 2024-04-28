@@ -1,0 +1,60 @@
+.contact__page {
+  background-color: #ecc0929d;
+  padding: 115px 0;
+}
+
+.contact__about h6 {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  letter-spacing: 0.2em;
+  text-align: center;
+  color: #dc780b;
+  margin: auto;
+}
+
+.contact__about h4 {
+  font-family: Roboto;
+  max-width: 750px;
+  font-size: 31.25px;
+  font-weight: 700;
+  line-height: 40.6px;
+  text-align: center;
+  color: #150c01;
+  margin-top: 15px;
+  margin: auto;
+  margin-bottom: 45px;
+}
+
+.form__input {
+  width: 750px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.form__input #search {
+  padding: 32px;
+  background: #ffffff;
+  max-width: 750px;
+  width: 750px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+}
+.form__input button {
+  width: 156px;
+  border-radius: 10px;
+  background: #dc780b;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 40.6px;
+  text-align: center;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  padding: 30px 57px;
+}

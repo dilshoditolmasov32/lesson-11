@@ -1,0 +1,69 @@
+.hero-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.about_section {
+  gap: 90px;
+}
+
+#about {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.2em;
+  text-align: left;
+  color: #dc780b;
+}
+
+.hero-section h3 {
+  font-family: Roboto;
+  font-size: 48.83px;
+  font-weight: 700;
+  line-height: 57.6px;
+  text-align: left;
+  color: #150c01;
+}
+
+.pararaph__text {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #150c01;
+  margin-top: 42px;
+  margin-bottom: 50px;
+}
+
+.hero-btn {
+  display: flex;
+  gap: 30px;
+}
+
+.btn1 {
+  width: 158px;
+  border-radius: 5px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  text-align: left;
+  padding: 20px 40px;
+  background: #dc780b;
+  color: #ffffff;
+}
+
+.btn2 {
+  border: 1.5px solid #dc780b;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  text-align: left;
+  color: #dc780b;
+  padding: 20px 40px;
+  border-radius: 5px;
+}

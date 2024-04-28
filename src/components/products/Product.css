@@ -1,0 +1,144 @@
+#menu,
+#menu1 {
+  width: 100%;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.2em;
+  color: #dc780b;
+  opacity: 0.7;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.food-text,
+.food-text1 {
+  font-family: Roboto;
+  font-size: 31.25px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  color: #150c01;
+  margin: 9px auto 25px;
+}
+
+.product_text,
+.product_text1,
+.product_text2 {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  color: #150c01;
+  max-width: 740px;
+  margin: auto;
+  opacity: 0.7;
+}
+
+.products {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
+
+.product {
+  max-width: 360px;
+  border: 1px solid #0000001a;
+  border-radius: 75px 10px 10px 10px;
+}
+
+.product_about {
+  display: flex;
+  justify-content: space-between;
+  margin: 21px 25px;
+}
+
+.product_about .name,
+.price {
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+  color: #150c01;
+}
+
+.desc {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  opacity: 0.7s;
+  color: #150c01;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.rating {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 25px 25px;
+}
+
+.rating button {
+  width: 36px;
+  height: 34px;
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: #dc780b;
+}
+
+.more-btn {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  padding: 11px 30px;
+  border-radius: 5px;
+  color: #dc780b;
+  border: none;
+  outline: none;
+  border: 1px solid #dc780b;
+  text-align: center;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.userName {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.75px;
+  text-align: center;
+  color: #000000;
+  margin-bottom: 140px;
+}
+
+.women_about {
+  text-align: center;
+  margin: auto;
+  margin-top: 73px;
+  margin-bottom: 42px;
+}
+
+.likes {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+#menu1 {
+  margin-top: 115px;
+}
+
+#menu {
+  margin-top: 115px;
+}

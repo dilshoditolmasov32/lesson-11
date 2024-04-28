@@ -1,0 +1,35 @@
+.footer__page {
+  background-color: #252525;
+  padding-top: 137px;
+  padding-bottom: 104px;
+}
+
+.footer-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-section h3 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20.16px;
+  text-align: left;
+  color: #ffffff;
+  width: 262px;
+  margin-bottom: 25px;
+}
+
+.footer-section a {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.41px;
+  text-align: left;
+  opacity: 0.7;
+  color: #ffffff;
+  display: block;
+  margin-bottom: 20px;
+}
+
+/*  MEDIA */

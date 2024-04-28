@@ -1,0 +1,64 @@
+.cards {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 120px;
+}
+
+.card {
+  text-align: center;
+}
+
+.card__img {
+  width: 88px;
+  height: 88px;
+  background-color: #8fa63248;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
+.card h5 {
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  margin-top: 33px;
+  margin-bottom: 15px;
+}
+
+.card p {
+  max-width: 300px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  color: #150c01;
+  opacity: 0.7;
+}
+
+.feature {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  letter-spacing: 0.2em;
+  text-align: center;
+  color: #dc780b;
+  display: flex;
+  justify-content: center;
+}
+
+.card__page h3 {
+  font-family: Roboto;
+  font-size: 31.25px;
+  font-weight: 700;
+  line-height: 35px;
+  text-align: center;
+  color: #150c01;
+  margin-top: 7px;
+  margin-bottom: 40px;
+}
